@@ -1,3 +1,5 @@
+// codigo del todoList en JavaScript para cargar las tareas
+
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 
